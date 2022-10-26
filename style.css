@@ -16,3 +16,10 @@ h1 {
   font-family: "Tangerine", serif;
   text-shadow: 4px 4px 4px #aaa;
 }
+
+img,
+#tabel {
+  border: 3px;
+  border-style: dashed;
+  color: aliceblue;
+}
