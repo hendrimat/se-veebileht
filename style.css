@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  color: darkslategrey;
+  font-family: "Libre Baskerville", serif;
+}
+
+p {
+  color: darkslategrey;
+}
+
+h1 {
+  font-size: 4rem;
+  padding-top: 10rem;
+  font-weight: bold;
+  font-family: "Tangerine", serif;
+  text-shadow: 4px 4px 4px #aaa;
+}
